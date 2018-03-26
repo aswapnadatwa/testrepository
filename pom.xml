@@ -90,6 +90,7 @@
 					<muleVersion>3.9.0</muleVersion>
 					<username>${user}</username>
 					<password>${pass}</password>
+					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 				</configuration>
